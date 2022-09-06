@@ -1,0 +1,1 @@
+providerTraceFilter=com.alibaba.dubbo.demo.consumer.spi.consumer.ProviderTraceFilter
